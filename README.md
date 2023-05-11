@@ -4,4 +4,4 @@ Performed end-to-end Business Intelligence activities encompassing data wranglin
 Project google drive link:
 https://drive.google.com/drive/folders/1lOZhoFxWxjl8o9Fy__G7hA_KA5Hi9KrG?usp=sharing
 
-{google_docs}<iframe src="https://docs.google.com/document/d/e/2PACX-1vSrl8l1D9DwUjyGr8sl-ToVO7_1_elQcKtC7JyZXabl8B8wVnUhUERKg_HQuTzytvd7hCX8scdSMY76/pub?embedded=true"></iframe>{/google_docs}
+{google_docs}https://docs.google.com/document/d/e/2PACX-1vSrl8l1D9DwUjyGr8sl-ToVO7_1_elQcKtC7JyZXabl8B8wVnUhUERKg_HQuTzytvd7hCX8scdSMY76/pub{/google_docs}
